@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel Intelligence: Real-Time Fraud Shield",
+  "description": "A production-grade fraud detection system featuring real-time streaming analytics, ML-powered inference, and an advanced monitoring dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Real-time streaming", "Machine Learning", "Data Visualization"]
+}
